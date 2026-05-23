@@ -1,0 +1,30 @@
+# virtual env
+.venv/
+env/
+
+# cache
+__pycache__/
+.ipynb_checkpoints/
+
+# ide
+.idea/
+
+# model weights
+*.pth
+*.pt
+*.pkl
+
+# dataset
+data/
+
+# extracted features
+features/
+
+# results
+results/
+
+# videos
+*.mp4
+
+# numpy files
+*.npy
